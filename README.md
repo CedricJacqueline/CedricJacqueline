@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @CedricJacqueline
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Cédric Jacqueline
 
-<!---
-CedricJacqueline/CedricJacqueline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Solution Architect** · Commercial Digital & GenAI · Sanofi
+
+---
+
+I design and assess internal platform architectures.
+
+
+### How I work
+
+- **Problem-first** — Tech choices are driven by constraints, not trends
+- **ADR > Slides** — Document decisions, not just diagrams
+- **Prototype fast, commit slow** — Validate assumptions before locking patterns
+- **Shared platform, distinct products** — Common foundations that serve diverse use cases
+
+### Contact
+
+📧 cedric.jacqueline@sanofi.com · 💬 Teams
